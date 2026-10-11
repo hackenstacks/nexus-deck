@@ -1,0 +1,50 @@
+ ▐▛███▜▌   Claude Code v2.1.92
+▝▜█████▛▘  Sonnet 4.6 · Claude Pro
+  ▘▘ ▝▝    ~/claude/nexus-network-stack/deck
+
+✻ Conversation compacted (ctrl+o for history)
+
+
+❯ /compact                                                                      
+  ⎿  Compacted (ctrl+o to see full summary)
+  ⎿  Read ../../../.config/hypr/hyprland.conf (326 lines)
+  ⎿  Referenced file chat_commands.go
+  ⎿  Referenced file services.go
+  ⎿  Read api_config.go (361 lines)
+  ⎿  Read nexus_api_router.go (348 lines)
+  ⎿  Skills restored (claude-api)
+
+❯ /memory 
+  ⎿  Cancelled memory editing
+
+❯ /context                                                                      
+  ⎿  Context Usage
+     ⛁ ⛁ ⛀ ⛀ ⛁   Sonnet 4.6
+                 claude-sonnet-4-6
+     ⛁ ⛁ ⛶ ⛶ ⛶   43.8k/200k tokens (22%)
+
+     ⛶ ⛶ ⛶ ⛶ ⛶   Estimated usage by category
+                 ⛁ System prompt: 7.5k tokens (3.7%)
+     ⛶ ⛶ ⛶ ⛶ ⛶   ⛁ System tools: 8.5k tokens (4.3%)
+                 ⛁ Memory files: 4k tokens (2.0%)
+     ⛶ ⛶ ⛝ ⛝ ⛝   ⛁ Skills: 476 tokens (0.2%)
+                 ⛁ Messages: 23.3k tokens (11.7%)
+                 ⛶ Free space: 135.2k (67.6%)
+                 ⛝ Autocompact buffer: 21k tokens (10.5%)
+
+     MCP tools · /mcp (loaded on-demand)
+
+     Available
+     └ mcp__claude_ai_Gmail__authenticate
+     └ mcp__claude_ai_Google_Calendar__authenticate
+
+     Memory files · /memory
+     └ ~/.claude/CLAUDE.md: 3.8k tokens
+     └ ~/CLAUDE.md: 62 tokens
+     └ ~/.claude/projects/-home-user-scripts/memory/MEMORY.md: 159 tokens
+
+     Skills · /skills
+
+❯ so what is free space                                                         
+  ⎿  You've hit your limit · resets 3pm (America/New_York)
+     /upgrade or /extra-usage to finish what you’re working on.

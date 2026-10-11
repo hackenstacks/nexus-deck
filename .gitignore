@@ -1,0 +1,33 @@
+# Binaries
+char-gen-cli
+char-gen-cli-test
+deck
+nexus-deck
+*.exe
+
+# Build artifacts
+*.o
+*.a
+
+# User data & secrets
+/users/
+*.db
+*.nexusvault
+merlin.json
+nexus.env
+
+# Backups & logs
+*.bak
+*.bak-*
+*.bak1
+*.bak2
+*.bak3
+*.bak4
+*.bak5
+*.bak6
+*.log
+debug.log
+
+# Fossil
+.fslckout
+_FOSSIL_
